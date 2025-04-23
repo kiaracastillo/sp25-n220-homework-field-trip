@@ -2,7 +2,7 @@
 
 ### Project Summary
 
-- This project is about an old **large-format field camera** maybe something like an Graflex speed Graphic camera. It is part of the photography collection at the Museum of Art.  
+- This project is about an old **large-format field camera** maybe something like a Graflex speed Graphic camera. It is part of the photography collection at the Museum of Art.  
 - The camera is important because it helped people take very clear and detailed photos, especially outside, like in nature or during travel.  
 - I chose this artifact because it shows how photography used to work and how it has changed over time and I'm taking a Fill and darkroom class this semester. I loved learn about the whole process.
 - The website will help people learn about this old camera through pictures, videos, and fun activities.
